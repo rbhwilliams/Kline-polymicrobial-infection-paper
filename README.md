@@ -1,2 +1,1 @@
-# Kline-polymicrobial-infection-paper
-Data and R code for the Tien, Goh, Chong et al manuscript.
+Data and R code for the Tien, Goh, Chong et al manuscript entitled *Enterococcus faecalis promotes innate immune suppression and polymicrobial catheter-associated urinary tract infection* (submitted to PLoS Pathogens)
