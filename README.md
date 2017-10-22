@@ -1,1 +1,1 @@
-Data and R code for the Tien, Goh, Chong et al. manuscript entitled *Enterococcus faecalis promotes innate immune suppression and polymicrobial catheter-associated urinary tract infection* (submitted to PLoS Pathogens)
+Data and R code for the Tien, Goh, Chong et al. manuscript entitled *Enterococcus faecalis promotes innate immune suppression and polymicrobial catheter-associated urinary tract infection* (Infection and Immunity, to appear). PMID:28893918.
